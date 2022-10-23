@@ -6,7 +6,7 @@ This week, you are building a Django application to collect an index of free pro
 
 ### Overall requirements
 
-- You will work on this assignment in pairs, using [VS Code Liveshare](https://code.visualstudio.com/learn/collaboration/live-share), and both partners will be typing in the same repository. You will not be using git branches yet, that's coming in phase 3.
+- You will work on this assignment in pairs or groups of three, using [VS Code Liveshare](https://code.visualstudio.com/learn/collaboration/live-share), and both partners will be typing in the same repository. You will not be using git branches yet, that's coming in phase 3.
 - Your application should be styled. It should be usable and aesthetically neutral, at a minimum. There is a sample mockup of the index page in [mockup/index.html](mockup/index.html). You do not have to follow this mockup -- it's just a place to start if you don't have your own ideas. You can write your own css and/or incorporate libraries like Bulma or Tachyons that have styled components.
 - When you are not sure about whether a feature is needed, use your knowledge of similar sites and your good sense. Ask yourself 
 the question, "would I as a user want the site to have this feature?"
